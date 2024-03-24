@@ -1,3 +1,7 @@
+Image Set.zip
+/Image Set
+*.ipynb
+!assignment4_ahmad_abushawarib.ipynb
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
